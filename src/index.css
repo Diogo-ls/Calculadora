@@ -1,13 +1,40 @@
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
+   
+    text-align: center;
+    background-image: url(https://www.1zoom.me/big2/213/324443-svetik.jpg);
+    background-size:cover;
+    font-size: 18px;
+   
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+      monospace;
+  }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
+  input{
+    font-size: 14px;
+    font-weight:bolder;
+    text-transform:none;
+    width: 70px;
+    height: 50px;
+    background-color: white;
+    border-width: 3px;
+    border-bottom-left-radius: 2px;
+    box-shadow: 5px 5px 10px black inset;
+    border-color: gray;
+  
+  
+  }
+
+  div{
+   color: beige;
+
+  }
+  
+ 
